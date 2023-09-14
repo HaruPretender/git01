@@ -8,5 +8,6 @@ public class App
     @Test
     public void test(){
         System.out.println("abc...");
+        System.out.println("dev...");
     }
 }
